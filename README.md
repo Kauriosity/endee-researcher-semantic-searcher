@@ -108,13 +108,13 @@ semantic_search_faiss.py │ ├── synthetic_researchers.csv │ ├── R
 
 ### 1️⃣ Clone Repository
 
-git clone `<your-forked-repo-url>`{=html}\
-cd endee-researcher-semantic-search/app
+git clone `https://github.com/Kauriosity/endee-researcher-semantic-searcher.git`
+cd app
 
 ### 2️⃣ Create Virtual Environment
 
 python -m venv venv\
-venv`\Scripts`{=tex}`\activate  `{=tex}
+`.\venv\Scripts\Activate.ps1`
 
 ### 3️⃣ Install Dependencies
 
